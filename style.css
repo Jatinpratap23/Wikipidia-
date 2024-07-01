@@ -1,0 +1,35 @@
+.A{
+    background-color: antiquewhite;
+    font-size: xx-large;
+color:gray;
+display: flex;
+}
+.B{
+    color:goldenrod;
+    font-size: x-large;
+    font-weight: 50;
+    display:flex;
+    height: 8vh;
+}
+.e{
+    color: black;
+    font-size: medium;
+    font-weight: lighter;
+    height: 30vh;
+}
+.C{
+    color:coral;
+    font-size: x-large;
+    display: flex;
+    background-color: silver;
+    width:auto;
+}
+.heading-a{
+    display:flex;
+    background-color: brown;
+    width: 50vh;
+}
+.q{
+    width: 40vh;
+    display: flex;
+}
